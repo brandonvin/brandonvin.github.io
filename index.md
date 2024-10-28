@@ -1,4 +1,4 @@
-Hi! I'm Brandon Vincent.
+## Hey! I'm Brandon Vincent.
 
 Welcome to my mind map.
 
