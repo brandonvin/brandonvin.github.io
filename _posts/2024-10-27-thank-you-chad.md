@@ -1,4 +1,4 @@
-## Thanks, Chad!
+## Thank you, Chad!
 
 Chad Baldwin made an excellent
 [blog post](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html)
