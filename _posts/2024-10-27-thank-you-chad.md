@@ -5,7 +5,7 @@ Chad Baldwin made an excellent
 about how to start a blog using GitHub pages.
 
 I stumbled upon that today and thought dang, that looks
-like something I can do in about 15 minutes... let me go make a cup of tea.
+like something I can try in about 15 minutes... let me go make a cup of tea.
 And here it is!
 
 Thank you, Chad.
