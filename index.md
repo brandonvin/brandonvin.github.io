@@ -1,5 +1,18 @@
-Here you can say lots of fun things about your site.
+Hi! I'm Brandon Vincent.
 
-Maybe say a some things about yourself.
+Welcome to my mind map.
 
-Or maybe what you plan to blog about.
+I was born and raised in Western Washington, and
+I'm still here, though a lot has changed -- most recently,
+I've got engaged to my beautiful future wife, Kim Hua,
+and settled into a home with our cat, Mr. Whiskers.
+
+For now, you can meet Kim at her [LinkedIn page](https://www.linkedin.com/in/kim-hua-49286976/),
+and take a peek in to my life at my [LinkedIn](https://www.linkedin.com/in/brandon-vincent-585bbab1/)
+and [Instagram](https://www.instagram.com/brandonvincent9810/).
+
+Thanks for stopping by! 
+
+What kind of trees are growing around here? Let's go for a walk...
+
+
