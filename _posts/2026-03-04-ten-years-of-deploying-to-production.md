@@ -78,4 +78,6 @@ Developer experience has to be smooth.
 CI/CD has to be quick.
 If a developer is ever waiting for CI or CD, treat that as a mini-incident.
 
+When a problem is discovered in production, it should be obvious what the problem was, and the internal signals _for developers_ should make it easy to diagnose and fix.
+
 It still feels early to be prescriptive on the _how_ and _what_, so it's worth another post in the future.
