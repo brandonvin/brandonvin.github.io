@@ -1,7 +1,9 @@
-## Intro
+## Ten years of deploying to production
 
 Back in 2018, where I worked there was an operations team. "Ops", we called them.
-In that decoade, this company was behind the curve, but maybe typical. We were just starting to _think about_ AWS, and near the tail end of my time there, just starting to adopt it for some internal-only systems. But from what I've heard, it wasn't uncommon in that era to have _an operations team_ that owned production.
+In that decade, this company was behind the curve, but not far from typical.
+We were just starting to _think about_ AWS. At the tail end of my time there, we were just starting to adopt AWS for some internal-only systems.
+But from what I've heard from friends who worked at more mature companies, it wasn't uncommon in that era to have _an operations team_ that owned production.
 
 Funny thing: the ops team literally sat in a corner of the office, in their own room. That's where ops is, in that little room. It sounds like a meme.
 
