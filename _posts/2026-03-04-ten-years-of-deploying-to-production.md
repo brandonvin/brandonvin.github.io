@@ -41,7 +41,7 @@ We worked out of GitHub repositories that were largely just snapshots of the cur
 In the ideal case, we'd push to `master`, `ssh` to an internal VM, pull the code, and run it.
 In the normal case, we'd `ssh` to the VM and edit things there, rerun the models, copy the code from the VM into the GitHub repository if we remember.
 
-How do we build a new model and deploy it to production? Who knows.
+How do we build a new model and deploy it to production? Who knows. Maybe [other people's problem](https://skamille.medium.com/opp-other-peoples-problems-d7eb174724ee), but that wasn't a term I knew back then.
 
 ## The production deployment solution
 This post isn't about my heroism, so to keep it brief, I leaned hard into what I understood as "DevOps":
