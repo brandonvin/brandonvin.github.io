@@ -48,7 +48,7 @@ This post isn't about my heroism, so to keep it brief, I leaned hard into what I
 * Went and talked to the engineering teams and the ops team. Figured out how everything fits together.
 * Learned what the heck [Chef](https://www.chef.io/) is.
 * Wrote and deployed an internal [PyPi repository](https://packaging.python.org/en/latest/guides/hosting-your-own-index/) that used git tags as versions, and resolved dependencies using our internal GitHub repositories. With the support of a partner in the ops team. Not a ton of code - maybe 100 lines of Python - but deeply embedded and tough to test and deploy on my own.
-* Established a pattern of not just pushing to `master,` but also tagging versions to release, and sometimes reviewing code in PRs before merging to `master`
+* Established a pattern of not just pushing to `master`, but also tagging versions to release, and sometimes reviewing code in PRs before merging to `master`
 * Created a Chef recipe template for Python apps
 * Created a Chef recipe for our Python app
 * Deployed the thing to production, and fixed the customer's concerns!
