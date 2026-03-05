@@ -76,6 +76,6 @@ From time to time, a hero might [push through the friction](https://blog.danieln
 
 Developer experience has to be smooth.
 CI/CD has to be quick.
-If a developer is ever waiting for CI or CD, treat is a mini-incident.
+If a developer is ever waiting for CI or CD, treat that as a mini-incident.
 
 It still feels early to be prescriptive on the _how_ and _what_, so it's worth another post in the future.
