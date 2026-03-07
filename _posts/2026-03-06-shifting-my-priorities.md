@@ -18,7 +18,7 @@ A few ideas that seem obviously worth my time are:
 
 - Org-wide sources of friction
 - Org-wide drags on velocity
-- Incident followups
+- Preventing the next incident we haven't thought of yet
 
 When I'm on-call, maybe a little different:
 
