@@ -12,6 +12,8 @@ use of one's time: snacking.
 
 ## What's worth my time?
 
+Besides the _real, important_ projects, what's worth my time?
+
 A few ideas that seem obviously worth my time are:
 
 - Org-wide sources of friction
