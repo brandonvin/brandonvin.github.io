@@ -3,12 +3,12 @@
 To stay motivated and engaged, I've started thinking about what
 kind of work I should be doing in my current role and team.
 
-[The Staff Engineer's Path](https://www.noidea.dog/staff) gave me some
+[The Staff Engineer's Path](https://www.noidea.dog/staff) and [Staff Engineer](https://staffeng.com/guides/work-on-what-matters/) gave me some
 helpful framing for this. At any moment, there's likely a _real, important_ project that I could be working on,
 but so many ideas and potential things to work on come up every day.
 
-The book puts a clever label on work that is enticing and easy, but not a great
-use of one's time: snacking.
+An idea that stuck with me is the clever label for work that is enticing and
+easy, but not a great use of one's time: snacking.
 
 ## What's worth my time?
 
