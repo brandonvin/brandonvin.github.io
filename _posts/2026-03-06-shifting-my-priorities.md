@@ -49,4 +49,4 @@ To nurture these ideas, I can:
 
 - Keep a list of pie-in-the-sky ideas
 - Use an hour or two every week to continue the research and prototyping
-- Sneakily build consensus and get people sold on the idea, before it's even working
+- Sneakily [build consensus](https://hyperbo.la/w/nemawashi/). Get people sold on the idea, before it's even working
