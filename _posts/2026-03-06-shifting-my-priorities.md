@@ -39,3 +39,14 @@ Instead of snacking all the time, I can:
 - Keep a list of snacks
 - Block out an hour or two a week to have a snack
 
+## Might look like a snack, but actually important work
+
+There's a class of work that is actually important _for future success_
+but feels like a snack in the moment: researching big ideas that
+could become org-wide improvements.
+
+To nurture these ideas, I can:
+
+- Keep a list of pie-in-the-sky ideas
+- Use an hour or two every week to continue the research and prototyping
+- Sneakily build consensus and get people sold on the idea, before it's even working
