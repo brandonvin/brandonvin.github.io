@@ -4,6 +4,10 @@ If we do _heaps_ of work, we'll get [loads of money!](https://www.youtube.com/wa
 
 ![Loads of money!](/img/loads-of-money.png)
 
+Serve pizza on plastic disposable plates. It's [better for business!](https://kinggizzard.bandcamp.com/track/astroturf)
+
+## Okay...
+
 To stay motivated and engaged, I've started thinking about what
 kind of work I should be doing in my current role and team.
 
