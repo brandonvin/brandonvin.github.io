@@ -1,5 +1,7 @@
 ## Heaps of work
 
+If we do _heaps_ of work, we'll get [loads of money!](https://www.youtube.com/watch?v=ULeDlxa3gyc&list=RDULeDlxa3gyc&start_radio=1)
+
 To stay motivated and engaged, I've started thinking about what
 kind of work I should be doing in my current role and team.
 
