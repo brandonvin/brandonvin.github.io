@@ -10,7 +10,7 @@ Some people talk about stacks and queues of work.
 It makes a lot of sense, when every task is of equal priority.
 
 As priority becomes a more important factor in my personal algorithm,
-[heaps](https://en.wikipedia.org/wiki/Heap_(data_structure) -- also known as a [PriorityQueue in Java](https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html),
+[heaps](https://en.wikipedia.org/wiki/Heap_(data_structure)) -- also known as a [PriorityQueue in Java](https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html),
 a [dequeue in Python](https://docs.python.org/3/library/collections.html#deque-objects), or a `PersistentQueue` in Clojure --
 -- feels like a better analogy.
 
