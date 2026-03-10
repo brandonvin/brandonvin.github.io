@@ -25,7 +25,7 @@ but so many ideas and potential things to work on come up every day.
 An idea that stuck with me is the clever label for work that is enticing and
 easy, but not a great use of one's time: snacking.
 
-_Real, important projects_ are on the queue and stack. _Snacks_ are on the heap,
+_Real, important projects_ are on the queue and stack. _Maybe-snacks_ are on the heap,
 
 ## What's worth my time?
 
