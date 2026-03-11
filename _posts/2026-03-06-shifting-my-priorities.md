@@ -2,7 +2,7 @@
 
 If we do _heaps_ of work, we'll get [loads of money!](https://www.youtube.com/watch?v=ULeDlxa3gyc&list=RDULeDlxa3gyc&start_radio=1)
 
-Serve pizza on plastic disposable plates. It's [better for business!](https://kinggizzard.bandcamp.com/track/astroturf)
+Serve pizza on plastic throwaway plates. It's [better for business!](https://kinggizzard.bandcamp.com/track/astroturf)
 
 ![Loads of money!](/img/loads-of-money.png)
 
