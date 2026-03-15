@@ -47,8 +47,8 @@ did not ask more.
 
 It got done done done! They showed their work to the engineering department.
 
-I had reached out to their manager - like in the first one - and the task
-getting done happened about 2 month later.
+I had reached out to their manager -- like in the first one -- and the task
+getting done happened about 2 months later.
 
 ## The learning
 
