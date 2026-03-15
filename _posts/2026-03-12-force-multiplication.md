@@ -27,7 +27,7 @@ Later, I reached out to the engineer and asked:
 
 No, she hadn't. All good, just checking, I said, and asked if it'd be helpful
 to have a call where we go through the tooling and typical workflows. We had
-that call, and it went great - she was over-prepared by reading some of our
+that call, and it went great -- she was over-prepared by reading some of our
 docs ahead of time. I asked lots of socratic questions and she engaged with
 them and asked her own questions too.
 
@@ -54,11 +54,15 @@ getting done happened about 2 months later.
 
 Patience pays off for everyone.
 
-As a result of choosing this path instead of the "do it all ourselves" path, we have a
+Both of these stories happened in the context of a multi-month project
+which I was leading.
+
+As a result of choosing this path instead of the "do it all ourselves" path, we have
 strengthened the organization. The skills to provision and configure servers, and
 provision cloud resources, are not frequently _needed_ by other teams, but when they are needed
 it is often a late discovery in a project that already has a lot of momentum.
+
 In the grand scheme of the software-shipping machine, it is better for these
 skills and familiarity to be distributed in pockets around the organization.
 
-That's an example of "force multiplication".
+That's an example of _force multiplication_.
