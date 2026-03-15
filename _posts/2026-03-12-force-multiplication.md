@@ -53,3 +53,12 @@ getting done happened about 2 month later.
 ## The learning
 
 Patience pays off for everyone.
+
+As a result of choosing this path instead of the "do it all ourselves" path, we have a
+strengthened the organization. The skills to provision and configure servers, and
+provision cloud resources, are not frequently _needed_ by other teams, but when they are needed
+it is often a late discovery in a project that already has a lot of momentum.
+In the grand scheme of the software-shipping machine, it is better for these
+skills and familiarity to be distributed in pockets around the organization.
+
+That's an example of "force multiplication".
