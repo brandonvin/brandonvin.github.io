@@ -1,39 +1,60 @@
 ## Heaps of work
 
-If we do _heaps_ of work, we'll get [loads of money!](https://www.youtube.com/watch?v=ULeDlxa3gyc&list=RDULeDlxa3gyc&start_radio=1)
+> noun
+>
+> (colloquial) A lot, a large amount 
+>
+> > Thanks a heap!
+
+-- [Wiktionary](https://en.wiktionary.org/wiki/heap)
+
+Right, if we do _heaps_ of work, we'll get [loads of money!](https://www.youtube.com/watch?v=ULeDlxa3gyc&list=RDULeDlxa3gyc&start_radio=1)
 
 Serve pizza on plastic throwaway plates. It's [better for business!](https://kinggizzard.bandcamp.com/track/astroturf)
 
 ![Loads of money!](/img/loads-of-money.png)
 
-## Okay...
+
+## Okay, wut?
 
 To stay motivated and engaged, I've started thinking about what
 kind of work I should be doing in my current role and team.
 
+A helpful motto I've learned is: any time a task comes onto your radar, you can:
 
-## Stacks, queues, and heaps
+> 1. Do it now
+> 1. Drop it now
+> 1. Delegate it
+> 1. Do it later
 
-Some people talk about stacks and queues of work.
+Some people talk about _stacks_ and _queues_ of work. That's pretty helpful.
 It makes a lot of sense, when every task is of equal priority.
+But time is finite. Not everything can be of equal priority!
 
-As priority becomes a more important factor in my personal algorithm,
-[heaps](https://en.wikipedia.org/wiki/Heap_(data_structure)) -- also known as [`PriorityQueue` in Java](https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html),
-a [`deque` in Python](https://docs.python.org/3/library/collections.html#deque-objects), and `PersistentQueue` in Clojure
--- feels like a better analogy.
+As time and priority become more important factors in my personal algorithm,
+[heaps](https://en.wikipedia.org/wiki/Heap_(data_structure)) -- also known as [`PriorityQueue` in Java](https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html), possibly a
+a [`deque` in Python](https://docs.python.org/3/library/collections.html#deque-objects), and possibly a `PersistentQueue` in Clojure
+-- is the analogy I've landed on. I don't even know if it's original, but it's useful.
+
+But also, big projects should not be rapidly moving on to and off of the heap.
+They have external commitments (stakeholders around the business, and maybe deadlines) that need to be
+kept in alignment. And context switching between big projects is _expensive_.
+
+So, what's on that heap?
 
 
+## Snacks
 
-## Snacking
-
-[The Staff Engineer's Path](https://www.noidea.dog/staff) and [Staff Engineer](https://staffeng.com/guides/work-on-what-matters/) gave me some
-helpful framing for this. At any moment, there's likely a _real, important_ project that I could be working on,
+At any moment, there's likely a _real, important_ project that I could be working on,
 but so many ideas and potential things to work on come up every day.
 
 An idea that stuck with me is the clever label for work that is enticing and
 easy, but not a great use of one's time: snacking.
 
-_Real, important projects_ are on the queue and stack. _Maybe-snacks_ are on the heap,
+All the credit to [The Staff Engineer's Path](https://www.noidea.dog/staff) and [Staff Engineer](https://staffeng.com/guides/work-on-what-matters/) for the clever analogy of _snacking_.
+
+* Big projects are on a queue-ish and stack-ish system.
+* _Snacks_ stay on the heap.
 
 ## What's worth my time?
 
