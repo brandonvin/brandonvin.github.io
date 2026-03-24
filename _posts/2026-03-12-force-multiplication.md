@@ -45,7 +45,7 @@ fix it _nod_".
 Basically, they did not engage with the socratic question, so I
 did not ask more.
 
-It got done done done! They showed their work to the engineering department.
+It got done-done-done! They showed their work to the engineering department.
 
 I had reached out to their manager -- like in the first one -- and the task
 getting done happened about 2 months later.
