@@ -110,7 +110,7 @@ Usually:
   * See also: [Strangler Fig Pattern](https://martinfowler.com/bliki/StranglerFigApplication.html)  
   * See also: [Shitlists](https://sirupsen.com/shitlists) (CI tests that fail when old pattern is re-introduced)  
   * Examples at Amperity:  
-    * [mulch](https://github.com/amperity/app/tree/main/util/mulch) \- a shitlist \- blocks new usages of deprecated functions in our Clojure(Script) code  
+    * `mulch` is a homegrown Shitlist for Clojure code. It blocks new usages of deprecated functions in our Clojure and ClojureScript code.
     * After we migrated a few services from Finagle/Thrift to Prodigal, we produced a runbook to migrate services and made Prodigal the officially blessed path for new services.  
     * After we migrated a few services from Aurora to K8s, we produced a repeatable migration runbook. We updated the "add a new service" tools/docs/guidance to target K8s. Soon after, 5 new services needed to be added, and they were stood up directly on K8s.  
 * They are finished and **recognized as finished**. How?  
@@ -220,11 +220,11 @@ We’ve done a lot of the hard thinking on ways to simplify that complexity, but
 Examples:
 
 * [Design: Datasets](https://docs.google.com/document/d/1bFOtk8XYCHkktMiHKIdgxqVeFceIQpIbdvx1PXzDoa4/edit?tab=t.0#heading=h.79xiau5ipkmo): groups of named tables  
-* Comp-graph [library](https://github.com/amperity/app/tree/main/service/ent/comp-graph) and [slides](https://docs.google.com/presentation/d/1J_nDGSXkHKGVvUccUnpdHULuHtP1fAwsLbIAEtLjF1Y/edit?usp=sharing): describing computational transformations  
-* Sandboxes for testing, sharing changes (I think this is done from a product standpoint \- what is left from the engineering perspective?)  
-* Coordinated Changes [product design](https://docs.google.com/document/d/1uu5wxfScUSYUdkIAyFBppKf43b6POS22ZvLPxPo5B84/edit?tab=t.0#heading=h.jctak68d2dx4) and [engineering design](https://docs.google.com/document/d/1VsMmTzsbVpJCcIooztVQ0ofofYY7y0c5IxKQmC1_8ig/edit?tab=t.0#heading=h.jctak68d2dx4)  
+* Amperity's internal library, `comp-graph` for forming Computation Graphs of complex layered transformations. (Credit to Kevin Litwack)
+* Amperity Sandboxes: a massive enabler for testing, sharing changes. I think this is done from a product standpoint -- what is left from the engineering perspective?
+* Coordinated Changes
 * Explicit vs. implicit configuration / semantic action-at-a-distance  
-* Workbench for exploring datasets (state)  
+* Workbench for exploring Datasets (state)  
 * Drafts
 
 ## Tidy as we go
