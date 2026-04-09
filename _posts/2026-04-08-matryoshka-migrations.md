@@ -73,21 +73,21 @@ We did it! Yay, us! This is in no particular order, and I'm obviously forgetting
 
 | Before | After | Big unlocks (non-exhaustive) | Est. finish date |
 | :---- | :---- | :---- | :---- |
-| Workflow System V0, built on Apache Airflow | Workflow System V1 | Customers can own Workflows Reliable Workflows Customer vs. Platform Attribution of Failures | 2024 |
+| Workflow System V0, built on Apache Airflow | Workflow System V1 | Customers can own Workflows -- Reliable Workflows -- Customer vs. Platform Attribution of Failures | 2024 |
 | Finagle/Thrift Service Framework | Prodigal Service Framework | Developer Efficiency | 2022 |
-| Self-Running Apache Kafka on VMs in the cloud | Purchase Confluent Kafka-as-a-Service Kafka Topics Managed in Infrastructure as Code in a CD pipeline | Developer Efficiency Infra Cost Efficiency | 2022 |
-| Cloud Storage Spaghetti | Storage Service and APIs | Bridge / Delta Sharing Strong security posture Bring Your Own Storage | 2024 |
+| Self-Running Apache Kafka on VMs in the cloud | Purchase Confluent Kafka-as-a-Service Kafka Topics Managed in Infrastructure as Code in a CD pipeline | Developer Efficiency -- Infra Cost Efficiency | 2022 |
+| Cloud Storage Spaghetti | Storage Service and APIs | Bridge / Delta Sharing -- Strong security posture -- Bring Your Own Storage | 2024 |
 | Jobs Inputs/Outputs in Cloud Storage | Job Inputs/Outputs in Redis | Developer Efficiency | 2022 |
 | API Framework V0 | API Framework V1 | Developer Efficiency | 2022 |
-| ADLS Gen 1 | ADLS Gen 2 | Infra cost efficiency System reliability Security posture Developer Efficiency | 2021 |
-| Loggly for structured logs \+ Honeycomb for traces | Honeycomb for traces and structured logs | Infra cost efficiency Developer Efficiency Security posture | 2023 |
-| Plain Text Logging | Structured Logging and Tracing | Speed to debug/resolve incidents Developer Efficiency | 2021 |
-| Deprecated Azure Public IP | Modern Azure Public IP | BFD: Connections to customer systems won't break when Azure retires their old infra Developer Efficiency | 2024 |
+| ADLS Gen 1 | ADLS Gen 2 | Infra Cost Efficiency -- Platform Reliability -- Security Posture -- Developer Efficiency | 2021 |
+| Loggly for structured logs \+ Honeycomb for traces | Honeycomb for traces and structured logs | Infra Cost Efficiency -- Developer Efficiency -- Security Posture | 2023 |
+| Plain Text Logging | Structured Logging and Tracing | Speed to debug/resolve incidents -- Developer Efficiency | 2021 |
+| Deprecated Azure Public IP | Modern Azure Public IP | BFD: Connections to customer systems won't break when Azure retires their old infra -- Developer Efficiency | 2024 |
 | Loading Dock | Not Loading Dock | Security Developer Efficiency | 2024 |
-| Tables In Accumulo \+ HDFS | Files in Cloud Storage, removal of Accumulo/HDFS | Infra cost efficiency Developer Efficiency | 2020 |
-| HDFS | Cloud Storage, full removal of HDFS | Infra cost efficiency Developer Efficiency | idk |
-| Product Configuration in Spaghetti/Accumulo | Unified Product Configuration | Sandboxes Developer Efficiency | idk |
-| Service Data in Spaghetti/Accumulo | Service Data in PostgreSQL | Sandboxes Developer Efficiency | idk |
+| Tables In Accumulo \+ HDFS | Files in Cloud Storage, removal of Accumulo/HDFS | Infra Cost Efficiency -- Developer Efficiency | 2020 |
+| HDFS | Cloud Storage, full removal of HDFS | Infra Cost Efficiency -- Developer Efficiency | idk |
+| Product Configuration in Spaghetti/Accumulo | Unified Product Configuration | Sandboxes -- Developer Efficiency | idk |
+| Service Data in Spaghetti/Accumulo | Service Data in PostgreSQL | Sandboxes -- Developer Efficiency | idk |
 | Something I'm Forgetting | Something I'm Forgetting |  | idk |
 
 **TODO:**  
