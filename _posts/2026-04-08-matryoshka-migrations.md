@@ -198,7 +198,7 @@ There's a negative outcome we've seen sometimes at Amperity. Example:
 
 When a migration finishes, we can run retrospectives to gather and share what we learned. **Consider this doc a "Meta-Retrospective" of 5 years of migrations at Amperity.**
 
-One example retrospective: [Spark 2-to-3 Retrospective](https://docs.google.com/document/d/12g9tcJAB-kPtI9DTPE7HjKYhRv-ss_tXtXTsUMOs_Ts/edit?usp=sharing)
+One example retrospective is the `Spark 2-to-3 Retrospective`.
 
 # So… what should we *do*?
 
@@ -219,7 +219,7 @@ We’ve done a lot of the hard thinking on ways to simplify that complexity, but
 
 Examples:
 
-* [Design: Datasets](https://docs.google.com/document/d/1bFOtk8XYCHkktMiHKIdgxqVeFceIQpIbdvx1PXzDoa4/edit?tab=t.0#heading=h.79xiau5ipkmo): groups of named tables  
+* Datasets: groups of named tables. Tables are tables!
 * Amperity's internal library, `comp-graph` for forming Computation Graphs of complex layered transformations. (Credit to Kevin Litwack)
 * Amperity Sandboxes: a massive enabler for testing, sharing changes. I think this is done from a product standpoint -- what is left from the engineering perspective?
 * Coordinated Changes
