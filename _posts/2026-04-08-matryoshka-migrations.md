@@ -22,7 +22,7 @@ Done poorly, migrations increase complexity and slow product development.
 
 # Why did I write this?
 
-Circia November 2024, some seasoned engineers, a few newer folks, and I, had a passionate discussion:
+Circa November 2024, some seasoned engineers, a few newer folks, and I, had a passionate discussion:
 
 > We’ve increasingly moved our product towards being **easy** -- wizards, fast
 > onboarding -- at the cost of **simplicity** -- removing non-essential
