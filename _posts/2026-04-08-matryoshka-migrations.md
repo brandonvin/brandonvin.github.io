@@ -95,7 +95,7 @@ We did it! Yay, us! This is in no particular order, and I'm obviously forgetting
 | Something I'm Forgetting | Something I'm Forgetting |  | idk |
 
 **TODO:**  
-I've worked on backend/infra most of my time at Amperity, so I'm probably missing some of the more direct customer-facing migrations. Feel free to comment here\!
+I've worked on backend/infra most of my time at Amperity, so I'm probably missing some of the more direct customer-facing migrations. Feel free to email me if I missed anything! I will update this post, if so.
 
 
 # What's in a successful big migration?
