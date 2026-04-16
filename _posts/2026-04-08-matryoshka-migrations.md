@@ -1,6 +1,10 @@
 Migrations considered helpful! And the tale of the Matryoshka Migration
 ===
 
+![Seven Matryoshki](/img/matryoshki-ye-olde-curiosity-shop.png)
+
+_Seven Matryoshki. Source: Ye Olde Curiosity Shop, Seattle, WA_
+
 Migrations are an art, not a science. A migration is a juggling act between
 breaking glass, keeping the lights on, and opening new doors.
 
