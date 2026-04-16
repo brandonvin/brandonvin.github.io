@@ -47,7 +47,7 @@ of my own. So I was already in a headspace of reflecting on the past 5 years and
 can be gleaned from it.
 
 
-# Outcomes of this doc
+# So what's the goal?
 
 At Amperity, the word "migration" carries a lot of historical baggage.
 Let's sit with the baggage, process it, and accept it.
@@ -282,3 +282,6 @@ This doc is a synthesis of my own experience and several other people's great id
   * [Migrations: the sole scalable fix to tech debt.](https://lethain.com/migrations/)  
   * [Your migration probably isn’t failing due to insufficient staffing.](https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/)  
 * [You will always have more problems than engineers -- Matt Schellhas](https://betterprogramming.pub/you-will-always-have-more-problems-than-engineers-aafff94a4623)
+* While we were pretty proud of "coining" the term Matryoshka Migration (we
+* love the NIH!), it turns out we aren't really that original. Except when it comes to naming things.
+  Check out this travelling blog: [Migrating Matryoshka](https://migratingmatryoshka.com/)
