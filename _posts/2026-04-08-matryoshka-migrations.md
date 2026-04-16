@@ -200,7 +200,7 @@ There's a negative outcome we've seen sometimes at Amperity. Example:
 
 # Reflect on finished big migrations
 
-When a migration finishes, we can run retrospectives to gather and share what we learned. **Consider this doc a "Meta-Retrospective" of 5 years of migrations at Amperity.**
+When a migration finishes, we can run retrospectives to gather and share what we learned. **Consider this post a "Meta-Retrospective" of 5 years of migrations at Amperity.**
 
 One example retrospective is the `Spark 2-to-3 Retrospective`.
 
@@ -248,7 +248,7 @@ Example at Amperity:
 
 # Sources and inspiration
 
-This doc is a synthesis of my own experience and several other people's great ideas.  
+This post is a synthesis of my own experience and several other people's great ideas.  
 
 ```
 (iterate inc @amperity-engineering)
