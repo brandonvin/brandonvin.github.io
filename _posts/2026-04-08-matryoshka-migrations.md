@@ -250,7 +250,8 @@ This doc is a synthesis of my own experience and several other people's great id
 (iterate inc @amperity-engineering)
 ```
 
-* I've chatted about this topic with these people at Amperity *(I took 5 seconds on this list, it is not exhaustive, and in no particular order.)*  
+I've chatted about this topic with these people at Amperity *(please note, I took 5 seconds on this list, it is not exhaustive, and in no particular order)*:
+
   * ... many others!
   * John Rush  
   * Jeff Stokes  
@@ -267,21 +268,26 @@ This doc is a synthesis of my own experience and several other people's great id
   * Cary Lee  
   * Joe Christianson  
   * ... many others!
-* Amperity `#staff-engineering` discussions  
-* [Pushing Through Friction -- Dan Na](https://blog.danielna.com/talks/pushing-through-friction/)  
+
+In general, thanks to Amperity's `#staff-engineering` discussions.
+
+
+... and in the public domain:
+
+* [Kent Beck -- "Tidy First?"](https://www.oreilly.com/library/view/tidy-first/9781098151232/)  
+* [Dan Na -- "Pushing Through Friction"](https://blog.danielna.com/talks/pushing-through-friction/)  
   * What is **friction**? It is resistance; when things feel harder than they ought to be.  
   * **Friction** in engineering demotivates otherwise smart and highly-motivated engineers.  
   * **Friction** in a product turns customers away.  
   * "**WTF Factor**" and "**Normalization of Deviance**": The harms when tech debt, stalled migrations, or struggling migrations "swept under the rug" become normalized in an organization.  
   * "**Pushing Through Friction Is The Job** *\[of a tech lead or staff+ engineer\].*"  
-* [Tanya Reilly -- The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)  
+* [Tanya Reilly -- "The Staff Engineer's Path"](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)  
   * Chapter: Leading big projects  
   * Section: Why have we stopped?  
-* [Tidy First? -- Kent Beck](https://www.oreilly.com/library/view/tidy-first/9781098151232/)  
-* Will Larson  
+* Will Larson's astute articles  
   * [Migrations: the sole scalable fix to tech debt.](https://lethain.com/migrations/)  
   * [Your migration probably isn’t failing due to insufficient staffing.](https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/)  
-* [You will always have more problems than engineers -- Matt Schellhas](https://betterprogramming.pub/you-will-always-have-more-problems-than-engineers-aafff94a4623)
-* While we were pretty proud of "coining" the term Matryoshka Migration (we
-* love the NIH!), it turns out we aren't really that original. Except when it comes to naming things.
-  Check out this travelling blog: [Migrating Matryoshka](https://migratingmatryoshka.com/)
+* [Matt Schellhas -- "You will always have more problems than engineers"](https://betterprogramming.pub/you-will-always-have-more-problems-than-engineers-aafff94a4623)
+* While we were pretty proud of "coining" the term Matryoshka Migration, it
+  turns out we aren't really that original. Except when it comes to naming
+  things. Check out this travelling blog: [Migrating Matryoshka](https://migratingmatryoshka.com/)
