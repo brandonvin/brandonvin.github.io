@@ -4,8 +4,8 @@ Welcome to my mind map.
 
 I was born and raised in [Western Washington](https://en.wikipedia.org/wiki/Western_Washington), and
 I'm still here, though a lot has changed -- most recently,
-I've got engaged to my beautiful wife-to-be, Kim Hua,
-and settled into a home with our cat, Mr. Whiskers.
+I got married to the beautiful, smart, and kind love-of-my-life, Kim Hua,
+We live together with our cat, Mr. Whiskers.
 
 
 A few fun facts about me:
